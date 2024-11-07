@@ -50,9 +50,9 @@ export default function Faq({ breakpoints }) {
                 <Typography variant="h4">Why should I choose you over other groups?</Typography>
                 <br />
                 <Typography>
-                    &emsp;&emsp;You don't have to choose ARC over other groups, they are not mutually exclusive. ARC's primary focus is on a competitively balanced ruleset.
+                    &emsp;&emsp;You don&apos;t have to choose ARC over other groups, they are not mutually exclusive. ARC&apos;s primary focus is on a competitively balanced ruleset.
                     To achieve this, we have assembled a team of judges, tournament organizers, and top players that have been involved in the highest level competitions over the lifetime of the game.
-                    Our playtest team contains many former FFG playtesters and some who were involved with Armada's design at its conception.
+                    Our playtest team contains many former FFG playtesters and some who were involved with Armada&apos;s design at its conception.
                     We have years of experience with different facets of the game, beyond being avid players. We intend to keep the spirit and design philosophy of the game alive and well to the best of our ability.
                 </Typography>
             </div>
