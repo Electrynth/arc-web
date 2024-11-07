@@ -3,7 +3,7 @@ import {
     Divider
 } from '@mui/material';
 
-export default function AboutUs({ breakpoints }) {
+export default function AboutUs({ breakpoints = {} }) {
     return (
         <div style={{ gap: 36, padding: 24, display: 'flex', flexFlow: 'column nowrap', alignItems: 'center' }}>
             <div style={{ display: 'flex', flexFlow: 'column nowrap', 'alignItems': 'center' }}>
